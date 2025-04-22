@@ -17,4 +17,5 @@ Live Dashboard:
 Paste your Tableau Public link here
 
 Dashboard Preview:
+
 ![Dashboard Screenshot](Credit Card Spending Analysis by Generation.png)
