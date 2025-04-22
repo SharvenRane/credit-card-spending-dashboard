@@ -14,7 +14,8 @@ Tools Used:
 - Dataset: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
 
 Live Dashboard:
-Paste your Tableau Public link here
+
+https://public.tableau.com/app/profile/sharven.rane/viz/CreditCardSpendingAnalysisbyGeneration/CreditCardSpendingAnalysisbyGeneration?publish=yes
 
 Dashboard Preview:
 
