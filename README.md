@@ -18,4 +18,4 @@ Paste your Tableau Public link here
 
 Dashboard Preview:
 
-![Dashboard Screenshot](Credit Card Spending Analysis by Generation.png)
+![Dashboard](Credit%20Card%20Spending%20Analysis%20by%20Generation.png)
