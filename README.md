@@ -9,14 +9,12 @@ What the Dashboard Shows:
 - The ability to filter everything by generation
 
 Tools Used:
-- Tableau Public (for visualizations)
-- Excel (basic data cleanup)
+- Tableau Public 
+- Excel 
 - Dataset: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
 
 Live Dashboard:
 Paste your Tableau Public link here
 
 Dashboard Preview:
-(Add a screenshot of your dashboard here once ready)
-
-If you're curious about generational trends in credit usage or just want to explore how simple data can tell a story, this is a quick but insightful project to check out.
+![Dashboard Screenshot](Credit Card Spending Analysis by Generation.png)
